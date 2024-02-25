@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://cdn.discordapp.com/attachments/1024999862095331339/1079519804190380112/otimizar.png" width="100"/>
+  <img src="http://storage.cdworld.cloud/r/logotipo_CDWORLD.png" width="100"/>
 </div>
   <div id="badges" align="center"> 
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/CoohCooh?label=Me%20Siga&logo=Github&style=social">
